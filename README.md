@@ -33,6 +33,3 @@
 #
 
 ### @media only
-
-# halloween
-# halloween
