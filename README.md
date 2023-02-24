@@ -34,4 +34,4 @@
 
 ### @media only
 
-## => VISIT SITE https://halloween-red.vercel.app/
+=> SITE https://halloween-red.vercel.app/
