@@ -7,7 +7,9 @@ O **Halloween Challenge** é um projeto temático de Halloween, criado para expl
 
 ## 👻 O que tem aqui?
 - 💥 Animações sinistras com HTML/CSS/JS
+<!--
 - 🔍 Interatividade assustadora com eventos e efeitos sonoros
+-->
 - 🌟 Personagens de Halloween como bruxas, fantasmas e abóboras
 - 🚀 Ideal para brincar com front-end e exercitar criatividade
 
